@@ -37,3 +37,21 @@ $$
 
 핵심 내용을 다시 한 번 정리하고, 필요한 경우 제언이나 마무리 문장을 적는다.
 
+## 4. 복잡한 수식(성능 테스트)
+
+아래는 행렬과 시그마, 분수 등이 포함된 복잡한 수식의 예시이다.
+
+$$
+\mathbf{A} = \begin{pmatrix}
+a_{11} & a_{12} & \cdots & a_{1n} \\
+a_{21} & a_{22} & \cdots & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{m1} & a_{m2} & \cdots & a_{mn}
+\end{pmatrix}, \quad 
+\chi^2 = \sum_{i=1}^n \frac{(O_i - E_i)^2}{E_i}
+$$
+
+$$
+P(x) = \frac{1}{\sigma\sqrt{2\pi}} \int_{-\infty}^{x} e^{-\frac{(t-\mu)^2}{2\sigma^2}} dt
+$$
+

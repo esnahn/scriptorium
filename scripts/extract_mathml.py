@@ -37,29 +37,21 @@ def main():
     for match in matches:
         math_content = match.group(1)
         
-        # Compute line number where <math> starts
+        # Line number prefix for uniqueness
         line_no = content[:match.start()].count('\n') + 1
-        
-        # Get the text before this match
-        text_before = content[:match.start()]
-        
-        # Remove HTML tags from the preceding text to find a label
-        clean_text_before = re.sub(r'<[^>]+>', '', text_before)
-        
-        # Split by newlines and find the last non-empty line
-        lines = [line.strip() for line in clean_text_before.split('\n') if line.strip()]
-        
-        if lines:
-            # Take the last line as label
-            raw_label = lines[-1]
-            
-            # If it ends with a colon, remove it
-            if raw_label.endswith(':'):
-                raw_label = raw_label[:-1].strip()
-                
-            file_label = clean_filename(raw_label)
+
+        # Try to find any <annotation> tag for a label
+        annotation_match = re.search(r'<annotation[^>]*>(.*?)</annotation>', math_content, re.DOTALL | re.IGNORECASE)
+        if annotation_match:
+            raw_label = annotation_match.group(1).strip()
         else:
-            file_label = "math_expr"
+            # Fallback: Extract all text content from the MathML structure
+            # Remove all HTML tags and keep only the inner text
+            raw_label = re.sub(r'<[^>]+>', '', math_content).strip()
+
+        # Clean up the label: normalize whitespace and remove invalid filename chars
+        raw_label = " ".join(raw_label.split())
+        file_label = clean_filename(raw_label)
             
         # Line number prefix makes filename unique
         filename = f"L{line_no}_{file_label}.mml"
