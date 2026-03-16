@@ -17,6 +17,12 @@ Scriptorium is a project designed to help you write and manage markdown manuscri
 
 ## Environment Setup
 
+Install Pandoc:
+
+```powershell
+scoop install pandoc
+```
+
 To run the Python scripts, you should set up a virtual environment and install the requirements:
 
 ```powershell
