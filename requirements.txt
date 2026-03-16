@@ -1,0 +1,1 @@
+# Project dependencies (empty for now since all scripts use built-in libraries)
