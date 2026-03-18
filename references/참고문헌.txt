@@ -1,0 +1,66 @@
+﻿강필성. (2022). 설명 가능한 멀티모달 이상치 탐지 방법론 개발 및 산업 데이터 응용. DSBA. 1월 13일. http://dsba.korea.ac.kr/%ec%84%a4%eb%aa%85-%ea%b0%80%eb%8a%a5%ed%95%9c-%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%8b%ac-%ec%9d%b4%ec%83%81%ec%b9%98-%ed%83%90%ec%a7%80-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ea%b0%9c%eb%b0%9c-%eb%b0%8f-%ec%82%b0/ (검색일: 2024.6.4.)
+강황식. (2006). 건교부, 건축물대장 1668만건 일제 정비. 한국경제. 4월 2일 기사. https://www.hankyung.com/article/2004112548771 (검색일: 2024.8.2.)
+건축법. 법률 제20424호, 2024. 3. 26., 일부개정.
+건축법 시행규칙. 국토교통부령 제1416호, 2024. 12. 16., 일부개정.
+건축물대장의 기재 및 관리 등에 관한 규칙. 국토교통부령 제1235호. 2023. 8. 1., 일부개정.
+건축행정시스템 세움터, https://www.eais.go.kr/.
+건축행정시스템 운영규정. 국토교통부훈령 제1369호, 2021. 2. 18., 일부개정
+건축HUB, https://www.hub.go.kr/portal/main.do.
+공공데이터포털, https://www.data.go.kr/.
+공공데이터 관리지침. 행정안전부고시 제2021-70호, 2021. 10. 26., 전부개정
+공공데이터의 제공 및 이용 활성화에 관한 법률. 법률 제19408호, 2023. 5. 16., 타법개정.
+공공데이터의 제공 및 이용 활성화에 관한 법률 시행령. 대통령령 제33842호, 2023. 11. 7., 일부개정.
+국토교통부. (2022a). ’22년 시·도별 건축물대장 정비계획 수립 및 정비 요청. https://www.open.go.kr/othicInfo/infoList/infoListDetl2.do (검색일: 2025.1.23.)
+국토교통부. (2022b). 건축허가 및 착공통계 통계정보보고서.
+국토교통부, (2022c). 클라우드 기반 건축행정시스템 민원인 매뉴얼.
+국토교통부. (2023a). 건축물대장의 기재 및 관리 등에 관한 규칙 일부개정안 입법예고. 법제처. https://www.moleg.go.kr (검색일: 2025.1.16.)
+국토교통부. (2023b). 전체민원. 건축행정시스템 세움터. https://www.eais.go.kr/moct/awp/ada08/AWPADA08L02 (검색일: 2023.10.4.)
+국토교통부. (2024a). 건축데이터 개방서비스 관련 PK전환 규칙 안내. 건축HUB. https://www.hub.go.kr/portal/bbs/ntc/idx-ntc-detail.do (검색일: 2025.1.13.)
+국토교통부. (2024b). 건축물통계 통계정보보고서. https://www.k-stat.go.kr/metasvc/msba100/statsdcdta?statsConfmNo=116011&kosisYn=Y
+국토교통부. (2024c). 건축허가·착공·준공통계 통계정보보고서. https://www.k-stat.go.kr/metasvc/msba100/statsdcdta?statsConfmNo=116005&kosisYn=Y
+국토교통부. (2024d). 국토교통부_건축HUB_건축물대장정보 서비스. 공공데이터포털. https://www.data.go.kr/data/15134735/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/getBrBasisOulnInfo (검색일: 2025.1.14.)
+국토교통부. (2025a). 대용량 제공 서비스. 건축HUB. https://www.hub.go.kr/portal/opn/lps/idx-lgcpt-pvsn-srvc-list.do (검색일: 2025.2.7.)
+국토교통부. (2025b). 건축통계 정확도 향상 위해 집계방식 개선. 1월 24일 보도자료.
+국토교통 통계누리, https://stat.molit.go.kr/portal/main/portalMain.do.
+국토지리정보원. (2024). 국토정보플랫폼 국토정보맵. https://map.ngii.go.kr/ms/map/NlipMap.do?tabGb=statsMap (검색일: 2024.6.5.)
+김보미. (2023). 5200여 반지하 주택 ‘전수조사’ 성동구…장마 전 예방 위해 3개월 만에 끝내. 경향신문. 2월 17일 기사. https://www.khan.co.kr/national/national-general/article/202302171820001 (검색일: 2023.3.2.)
+김승범. (2015). 건축물대장 원시데이터의 관계 구조와 탐색적 분석을 통한 데이터 활용. 한국문화공간건축학회, 50, 110–120.
+나라경제 2022년 7월호. (2022). KDI 경제정보센터.
+박진우. (2024). 마포 공덕자이, 9년 만에 이전고시…주담대·전세대출 길 열렸다. 한국경제. 12월 19일 기사. https://www.hankyung.com/article/202412196833i (검색일: 2025.1.14.)
+송유미, 조영진, 안의순. (2024). 건축행정 데이터를 활용한 건축물 연령 지표 개발 연구. 건축공간연구원.
+안의순, 박종훈. (2023). 건축행정 데이터 기반 재해 취약 지하층 주택 현황 분석. 건축공간연구원.
+양현채, 박기범, 엄미정, 목은지. (2020). 과학기술 행정 혁신을 위한 인공지능 활용 방안. https://www.stepi.re.kr/site/stepiko/report/View.do?cbIdx=1292&reIdx=973&cateCont=A0201 (검색일: 2024.6.3.)
+여인규. (2021). 국토부, 전국 3차원 건물모형 서비스 개시. 칸. 7월 4일 기사. https://www.kharn.kr/news/article.html?no=16649 (검색일: 2024.11.21.)
+오미애, 박아연, 김용대, 진재현. (2018). 기계학습(Machine Learning) 기반 이상 탐지(Anomaly Detection) 기법 연구 - 보건사회 분야를 중심으로. 한국보건사회연구원. https://repository.kihasa.re.kr/handle/201002/32608 (검색일: 2024.6.26.)
+이민철. (2024). Kiwi: 통계적 언어 모델과 skip-bigram을 이용한 한국어 형태소 분석기 구현. 디지털인문학, 1(1), 109–136. https://doi.org/10.23287/KJDH.2024.1.1.6
+이선재. (2024). 필지별 건축물 이력 작성: 건축물대장/폐쇄말소대장 결합 [발표자료]. 서울대학교 건축도시공간연구실 내부자료.
+이선재. (2025). 건축물데이터 품질개선 프로젝트 [계획]. 서울대학교 건축도시공간연구실 내부자료.
+이영주. (2022). 디지털플랫폼정부 시대, 데이터로 국토 변화를 읽고 지속가능한 미래를 준비. 국토, 55–59.
+장요한, 이영민. (2022). 국토조사를 위한 국가기본도 도로망도 기반 접근성 보정방안에 관한 연구 [발표자료]. 대한교통학회 제87회 학술발표회. 9월 30일.
+장요한, 이영민. (2022). 국토조사를 위한 국가기본도 도로망도 기반 접근성 보정방안에 관한 연구. 대한교통학회 학술대회지, 87, 211–212. (2022.9.28–30.).
+장요한, 이영민, 임시영, 백정한, 김현경. (2022). 국가기본도 도로망도 기반 국토조사 접근성 지표 생산방안 연구. 국토지리정보원. https://www.ngii.go.kr/kor/contents/view.do?sq=1345&board_code=contents_data (검색일: 2025.1.22.)
+전라남도 해남군. (2022). 2022년 건축물대장 정비 추진계획(안). https://www.open.go.kr/othicInfo/infoList/infoListDetl.do?prdnNstRgstNo=DCT2B6206AA1831BFB03D4FFFFBA3E3C5CC&prdnDt=20220908174212&nstSeCd=B&title=%EC%9B%90%EB%AC%B8%EC%A0%95%EB%B3%B4&kwd=%EA%B1%B4%EC%B6%95%EB%AC%BC%EB%8C%80%EC%9E%A5+%EC%A0%95%EB%B9%84+%EA%B3%84%ED%9A%8D&searchInsttCdNmPop=&preKwds=%EA%B1%B4%EC%B6%95%EB%AC%BC%EB%8C%80%EC%9E%A5+%EC%A0%95%EB%B9%84+%EA%B3%84%ED%9A%8D&reSrchFlag=off&insttSeCd=&eduYn=N&startDate=20220601&endDate=20230531&pSelt=&insttCdNm=&insttCd=&searchMainYn=&rowPage=10&viewPage=1&sort=s&offSet=4&prevUrl=%2FothicInfo%2FinfoList%2ForginlInfoList.do&othbcSeCd=&hash=true (검색일: 2025.1.23.)
+전창해. (2021). “일제잔재 청산” 충북도 공적 장부의 일본식 이름 지운다. 연합뉴스. 3월 1일 기사. https://www.yna.co.kr/view/AKR20210226133900064 (검색일: 2025.1.14.)
+정동훈, 김진, 배상근, 이길재. (2014a). 건축물 정위치 등록에 관한 연구: 지적도상 건축물 등록에 관한 연구. 국가건축정책위원회. https://www.riss.kr/link?id=G3808455&ssoSkipYN=Y (검색일: 2024.6.3.)
+정동훈, 김진, 배상근, 이길재. (2014b). 건축물 정위치 등록에 관한 연구: 지적도상 건축물 등록에 관한 연구. 국가건축정책위원회. https://www.codil.or.kr/viewDtlConRpt.do?gubun=rpt&pMetaCode=OTKCRK180224 (검색일: 2024.6.3.)
+정용찬, 노희용, 김윤화, 오윤석, 박민규, 이동희, 정경오. (2023). 국가통계 관리체계 효율화 방안 연구. 통계청. https://www.kisdi.re.kr/report/view.do?key=m2101113024770&masterId=3934580&arrMasterId=3934580&artId=1779956 (검색일: 2025.1.22.)
+조상규, 성은영. (2012). 건축행정정보의 정책적 활용 및 건축통계 개선방안 연구. 건축공간연구원.
+조상규, 조영진, 송유미. (2019). 건축행정 빅데이터의 효율적 활용을 위한 정보체계 개선 연구. 건축공간연구원.
+조상규, 김신성. (2023). 대규모 언어모델(LLM)을 활용한 건축민원 대응 효율화 방안 연구. 건축공간연구원.
+조영진, 류수연, 현태환. (2022). 건축행정 통계 개선 및 공간정보 융합 방안 연구. 건축공간연구원.
+조영진, 허한결, 안의순, 류수연, 송유미, 현태환. (2022). 빅데이터 기반 건축물 화재 예측 모델 개발 연구. 건축공간연구원.
+조영진, 허한결, 안의순, 류수연, 현태환. (2022). 빅데이터 기반 건축물 화재 예측 모델 개발 연구. 건축공간연구원
+조영진, 허한결, 안의순, 송유미. (2023). 데이터 기반 정책을 위한 건축물 생산량 지수 개발 연구. 건축공간연구원.
+조영진, 허한결, 송유미, 현태환. (2023). 빅데이터 기반 건축물 화재 및 홍수 리스크 분석 모델 개발 연구. 건축공간연구원.
+조영진, 유광흠, 박종훈, 안의순, 허한결, 현태환, 송유미, 김효정, 남기천, 김가해, 박미래. (2024). 2024년 건축물관리지원센터 업무 위탁. 국토교통부·건축공간연구원.
+조영진, 안의순. 박성남, 고영호, 권오규, 임보영, 임리사, 김유진, 이정현, (2024). 범죄예방 환경설계(CPTED) 고도화 및 인증제도 개선 방향. 건축공간연구원.
+지능정보화 기본법. 법률 제20410호, 2024. 3. 26., 일부개정.
+최병남. (2023). 디지털플랫폼정부의 플랫폼, 디지털국토. 국토, 6–14.
+최준호, 김인한. (2014). 개방형 BIM기반의 건축인허가 적법성검토체계 구축을 위한 사전프로세스 적용 방안에 관한 연구. 대한건축학회 논문집 - 계획계, 30(9), 3–12.
+최훈. (2022). 스마트 주소정보 플랫폼 구축해 AI 로봇 배송 등 혁신서비스 창출한다. 나라경제, 33(7). https://eiec.kdi.re.kr/publish/naraView.do?fcode=00002000040000100005&cidx=13892&sel_year=2022&sel_month=11&pp=20&pg=1 (검색일: 2024.6.5.)
+행정안전부. (2021). 공공데이터 제공･관리 실무 매뉴얼. 
+Chatbot Arena LLM Leaderboard. (2025). Chatbot Arena (formerly LMSYS). https://lmarena.ai/?leaderboard (검색일: 2025.2.7.)
+Chiang, W.-L., Zheng, L., Sheng, Y., Angelopoulos, A. N., Li, T., Li, D., Zhang, H.,Zhu, B., Jordan, M., Gonzalez, J. E., Stoica, I. (2024). Chatbot arena: An open platform for evaluating llms by human preference.
+Craig, L. (2023). How data quality shapes machine learning and AI outcomes. Enterprise AI. https://www.techtarget.com/searchenterpriseai/feature/How-data-quality-shapes-machine-learning-and-AI-outcomes (검색일: 2024.6.5.)
+Geng, Y., Chen, J., Ye, Z., Yuan, Z., Zhang, W., Chen, H. (2021). Explainable zero-shot learning via attentive graph convolutional network and knowledge graphs. Semantic Web, 12(5), 741–765. https://doi.org/10.3233/SW-210435
+Swalin, A. (2018). How to Make Your Machine Learning Models Robust to Outliers. KDNuggets. 8월 28일. https://www.kdnuggets.com/how-to-make-your-machine-learning-models-robust-to-outliers (검색일: 2024.7.2.)
