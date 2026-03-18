@@ -1,6 +1,6 @@
 /.venv/
 /outputs/*
-/references/*
+# /references/*
 
 # keep directories from being deleted
 !.gitkeep
