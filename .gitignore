@@ -1,6 +1,9 @@
 /.venv/
-/outputs/
-/references/
+/outputs/*
+/references/*
+
+# keep directories from being deleted
+!.gitkeep
 
 # Python cache
 __pycache__/
