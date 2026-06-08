@@ -7,7 +7,7 @@ Scriptorium is a project designed to help you write and manage markdown manuscri
 ### Markdown Files
 - `title.md`: Potential titles for the manuscript.
 - `outline.md`: The structured outline of the writing piece.
-- `draft.md`: The actual manuscript draft being written.
+- `draft.txt`: The actual manuscript draft being written.
 - `instruction.md`: **[Writer's Manual]** Detailed guide for manuscript writing workflow and file roles.
 - `instruction_writing.md`: Detailed writing conventions (notation, citations, etc.).
 - `TODO.md`: Planned features and project roadmap.
@@ -39,6 +39,7 @@ pip install -r requirements.txt
 
 ## Tool Overview
 
+<!-- no use since the draft is not in md format
 ### 1. `convert_to_docx.ps1`
 Runs Pandoc to convert a given Markdown file into a standalone DOCX file.
 
@@ -75,6 +76,7 @@ A Python script that parses an HTML file, locates all MathML (`<math>...</math>`
 ```bash
 python scripts/extract_mathml.py <input_html_file>
 ```
+-->
 
 ### 4. `count_words.py`
 Analyzes a text file to calculate document length statistics, which is useful when writing manuscripts with strict character or word limits.
