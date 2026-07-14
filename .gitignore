@@ -9,5 +9,10 @@
 
 # /references/*
 
+# ignore manuscript files for private use
+draft.*
+outline.*
+title.*
+
 # keep directories from being deleted
 !.gitkeep
