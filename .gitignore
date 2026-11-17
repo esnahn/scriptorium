@@ -1,11 +1,13 @@
-/.venv/
-/outputs/*
+# md2hwp 실행 파일 (README의 설치 명령으로 받음)
+/md2hwp/
+
+# md2hwp 변환 결과
+*.ir.json
+*.output.hwp*
+*.svg.emf
+*.svg.png
+
 # /references/*
 
 # keep directories from being deleted
 !.gitkeep
-
-# Python cache
-__pycache__/
-*.py[cod]
-
